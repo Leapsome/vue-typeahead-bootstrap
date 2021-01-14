@@ -76,7 +76,6 @@
 
 <script>
 import VueTypeaheadBootstrapList from './VueTypeaheadBootstrapList.vue'
-import ResizeObserver from 'resize-observer-polyfill'
 
 export default {
   name: 'VueTypeaheadBootstrap',
